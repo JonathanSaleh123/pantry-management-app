@@ -32,7 +32,6 @@ const style = {
   gap: 3,
   color: '#fff',
 }
-
 const contrastColor = "#1138FD";
 
 export default function Home() {
